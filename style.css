@@ -1,0 +1,57 @@
+body {
+  width: 100vh;
+  height: 100vh;
+  background-color: #FAF7FD;
+  font-family: 'Poppins', sans-serif;
+}
+
+#container {
+  margin: auto;
+  margin-top: 50px;
+}
+
+#circulo {
+  width: 213px;
+  height: 213px;
+  margin: auto;
+  border: solid #BB99DD 3px;
+  border-radius: 50%;
+}
+
+#foto {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#instagram {
+  text-align: center;
+  margin: auto;
+  margin-top: 22px;
+  padding: 13px;
+  color: #BB99DD;
+}
+
+.formLink {
+  width: 326px;
+  height: 49px;
+  border: solid #BB99DD 2px;
+  border-radius: 4px;
+  margin: auto;
+  margin-bottom: 16px;
+  text-align: center;
+  color: #BB99DD;
+}
+
+#link1 {
+  margin-top: 33px;
+}
+
+#assets {
+  margin: auto;
+  margin-top: 81px;
+  width: 236px;
+  height: 24px;
+  display: flex;
+  justify-content: space-between;
+}
